@@ -22,9 +22,3 @@
 - **Stringnotes Creatr** – A lyrics animator that can be linked with Adobe Premiere Pro.
 - **TidyTime** – Suspending clicks and keys while you give your mouse or keyboard a good cleaning.
 - **Music Projects** – Jamming, recording tracks, and experimenting with sound.
-
-#
-
-### Let’s Connect!
-- [LinkedIn](https://www.linkedin.com/in/markpaniterce/)
-- [Email](mailto:gen.paniterce@gmail.com)
