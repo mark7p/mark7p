@@ -1,6 +1,5 @@
 # Hey there! 👋 I'm Mark Paniterce
 ## 🎸 Web Dev by Day, Musician by Night
-#
 
 ### Tech & Tools I Use
 <img align="left" alt="angular" width="30px" style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
@@ -23,13 +22,6 @@
 - **Stringnotes Creatr** – A lyrics animator that can be linked with Adobe Premiere Pro.
 - **TidyTime** – Suspending clicks and keys while you give your mouse or keyboard a good cleaning.
 - **Music Projects** – Jamming, recording tracks, and experimenting with sound.
-
-#
-
-### What’s Next?
-- Keep building cool projects that mash up creativity and code.
-- Contribute to open source and help out where I can.
-- Find more ways to mix music, art, and tech together!
 
 #
 
