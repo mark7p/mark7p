@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Mark Paniterce
 
-## 🎸 Web Dev by Day, Musician by Night | 💻 Code Junkie
+## 🎸 Web Dev by Day, Musician by Night
 
 ### A Little About Me
 - **💻 Web Dev**: I build websites and apps that feel smooth and look awesome. I’m into JavaScript, Angular, Tauri, React and always down to learn more!
@@ -15,6 +15,9 @@
 - **Frameworks**: Angular, RxJS, NgRx, React, Vue
 - **Tools**: Git, Chrome Extensions, Node.js, MySQL
 - **Other Hobbies**: Music production, sound design, drawing
+
+<img align="left" alt="angular" width="30px" style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+          
 
 ---
 
