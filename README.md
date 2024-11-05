@@ -19,7 +19,9 @@
 #
 
 ### What I’m Up To Right now, I’m working on:
-- **NoteCraftr** – A fun little note-making app for automating the boring stuff.
 - **Stringnotes Creatr** – A lyrics animator that can be linked with Adobe Premiere Pro.
+- **NoteCraftr** – A fun little note-making app for automating the boring stuff.
+- **Regextractr** – Chrome extension to search and highlight text using Regex. Works with SPAs too.
+- **Stringnotes Animatr** – A guitar playing animator for MIDI files, works with OBS Studio.
 - **TidyTime** – Suspending clicks and keys while you give your mouse or keyboard a good cleaning.
 - **Music Projects** – Jamming, recording tracks, and experimenting with sound.
