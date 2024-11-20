@@ -17,7 +17,7 @@
 <br/>
 <br/>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mark7p)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mark7p&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 #
 
