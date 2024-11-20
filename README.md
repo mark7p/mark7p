@@ -15,10 +15,9 @@
 <img align="left" alt="angular" width="30px" style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 <img align="left" alt="angular" width="30px" style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <br/>
-<!--<br/>
-
+<!-- <br/>
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mark7p&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-<br/>-->
+<br/> -->
 #
 
 ### What I’m Up To Right now, I’m working on:
